@@ -1,0 +1,1 @@
+This is a soduku solver that checks to see if the board is valid or not, then it checks the row, column, and the box that the number is in. Then it uses backtracking to see which number would be the best for that spot while also considering the other numbers in the columns and rows of that box.
